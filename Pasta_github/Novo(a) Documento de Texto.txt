@@ -1,8 +1,0 @@
-  <button id="myBtn"/>
-    <script>
-      document.getElementById("myBtn").addEventListener("click", myFunction);
-      function myFunction() {
-        window.location.href="http://programminghead.com";
-      }
-    </script>
-https://programminghead.com/how-to-link-submit-button-to-another-page-in-html.php
